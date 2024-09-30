@@ -1,0 +1,17 @@
+# MODULE
+# name: define
+
+# imports
+from math import pi
+
+WIDTH = 14.2
+HALF_WIDTH = WIDTH / 2
+QUARTER_WIDTH = WIDTH / 4
+
+HEIGHT = 8
+HALF_HEIGHT = HEIGHT / 2
+QUARTER_HEIGHT = HEIGHT / 4
+
+TITLE_SIZE = 45
+TEXT_SIZE = 30
+LEGEND_TEXT_SIZE = 25
